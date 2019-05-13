@@ -1,13 +1,187 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ccc0b0ae-0049-405f-820f-f204f97a83c0" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/hydra.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demoClass/Outer.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demoClass/OuterTwo.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demoClass/Super.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demoObject/ArrayNoChangeDemo.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demoObject/ArrayVariableDemo.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demoObject/CollectionToMethod.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demoObject/Demo.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demoObject/Demo2.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demoObject/Demo3.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demoObject/Demo4.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demoObject/Demo5.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demoObject/Demo6.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demoObject/ExceptionSyllabus.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demoObject/ForDemo.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demoObject/ForInIfDemo.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demoObject/ForOrYieLdDemo.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demoObject/ForToListDemo.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demoObject/JavaForDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demoObject/Lazy.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demoObject/MethodDefaultPamars.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demoObject/MethodDemo.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demoObject/MethodHigherOrderFunction.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demoObject/MethodToMethodNameDemo.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demoObject/MethodToNominatePamars.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demoObject/RecursiveFunctionDemo.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demoObject/ScalaArrayToJavaArray.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demoObject/ScalaList.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demoObject/ScalaMap.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demoObject/ScalaQueue.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demoObject/ScalaSetDemo.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demoObject/TupleDemo.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demoObject/WhileDemo.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demoObject/doWhileDemo.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/society/professional/Executive.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="ScalaSetDemo.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/demoObject/ScalaSetDemo.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="249">
+              <caret line="34" column="45" lean-forward="true" selection-start-line="34" selection-start-column="45" selection-end-line="34" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CollectionToMethod.scala" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/demoObject/CollectionToMethod.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Package Object" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>:</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/demoClass/Super.scala" />
+        <option value="$PROJECT_DIR$/src/demoClass/OuterTwo.scala" />
+        <option value="$PROJECT_DIR$/src/demoClass/society.scala" />
+        <option value="$PROJECT_DIR$/src/demoClass/Outer.scala" />
+        <option value="$PROJECT_DIR$/src/society/professional/Executive.scala" />
+        <option value="$PROJECT_DIR$/src/demoObject/Demo2.scala" />
+        <option value="$PROJECT_DIR$/src/demoObject/Demo3.scala" />
+        <option value="$PROJECT_DIR$/src/demoObject/Demo.scala" />
+        <option value="$PROJECT_DIR$/src/demoObject/Demo4.scala" />
+        <option value="$PROJECT_DIR$/src/demoObject/Demo5.scala" />
+        <option value="$PROJECT_DIR$/src/demoObject/Demo6.scala" />
+        <option value="$PROJECT_DIR$/src/demoObject/WhileDemo.scala" />
+        <option value="$PROJECT_DIR$/src/demoObject/forDemo.scala" />
+        <option value="$PROJECT_DIR$/src/demoObject/ForToListDemo.scala" />
+        <option value="$PROJECT_DIR$/src/demoObject/ForInIf.scala" />
+        <option value="$PROJECT_DIR$/src/demoObject/JavaForDemo.java" />
+        <option value="$PROJECT_DIR$/src/demoObject/ForOrYieId.scala" />
+        <option value="$PROJECT_DIR$/src/demoObject/ForOrYieLd.scala" />
+        <option value="$PROJECT_DIR$/src/demoObject/doWhileDemo.scala" />
+        <option value="$PROJECT_DIR$/src/demoObject/MethodToNominatePamars.scala" />
+        <option value="$PROJECT_DIR$/src/demoObject/RecursiveFunctionDemo.scala" />
+        <option value="$PROJECT_DIR$/src/demoObject/MethodHigherOrderFunction.scala" />
+        <option value="$PROJECT_DIR$/src/demoObject/ForInIfDemo.scala" />
+        <option value="$PROJECT_DIR$/src/demoObject/ForDemo.scala" />
+        <option value="$PROJECT_DIR$/src/demoObject/MethodDemo.scala" />
+        <option value="$PROJECT_DIR$/src/demoObject/MethodDefaultPamars.scala" />
+        <option value="$PROJECT_DIR$/src/demoObject/MethodToMethodNameDemo.scala" />
+        <option value="$PROJECT_DIR$/src/demoObject/Lazy.scala" />
+        <option value="$PROJECT_DIR$/src/demoObject/ExceptionSyllabus.scala" />
+        <option value="$PROJECT_DIR$/src/demoObject/ArrayDemo.scala" />
+        <option value="$PROJECT_DIR$/src/demoObject/ArrayVariableDemo.scala" />
+        <option value="$PROJECT_DIR$/src/demoObject/ArrayNoChangeDemo.scala" />
+        <option value="$PROJECT_DIR$/src/demoObject/ScalaArrayToJavaArray.scala" />
+        <option value="$PROJECT_DIR$/src/demoObject/Tuple.scala" />
+        <option value="$PROJECT_DIR$/src/demoObject/ScalaList.scala" />
+        <option value="$PROJECT_DIR$/src/demoObject/ScalaQueue.scala" />
+        <option value="$PROJECT_DIR$/src/demoObject/ScalaMap.scala" />
+        <option value="$PROJECT_DIR$/src/demoObject/ScalaSetDemo.scala" />
+        <option value="$PROJECT_DIR$/src/demoObject/CollectionToMethod.scala" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
+  </component>
+  <component name="PhpServers">
+    <servers />
   </component>
   <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="scala_study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scala_study" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scala_study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scala_study" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scala_study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scala_study" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="demoObject" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -16,7 +190,63 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
-  <component name="RunManager">
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.CollectionToMethod">
+    <configuration name="CollectionToMethod" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="demoObject.CollectionToMethod" />
+      <module name="scala_study" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demoObject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="ScalaMap" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="demoObject.ScalaMap" />
+      <module name="scala_study" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demoObject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="ScalaQueue" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="demoObject.ScalaQueue" />
+      <module name="scala_study" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demoObject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="ScalaSetDemo" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="demoObject.ScalaSetDemo" />
+      <module name="scala_study" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demoObject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -35,6 +265,12 @@
         <value defaultName="singleModule" />
       </option>
       <patterns />
+    </configuration>
+    <configuration name="Scala Console" type="ScalaScriptConsoleRunConfiguration" factoryName="Scala Console" temporary="true">
+      <module name="scala_study" />
+      <setting name="vmparams4" value="-Djline.terminal=NONE" />
+      <setting name="workingDirectory" value="$PROJECT_DIR$" />
+      <setting name="consoleArgs" value="-usejavacp" />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -58,6 +294,347 @@
       <properties />
       <listeners />
     </configuration>
+    <list>
+      <item itemvalue="Application.ScalaQueue" />
+      <item itemvalue="Application.ScalaMap" />
+      <item itemvalue="Application.ScalaSetDemo" />
+      <item itemvalue="Application.CollectionToMethod" />
+      <item itemvalue="Scala Console.Scala Console" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CollectionToMethod" />
+        <item itemvalue="Scala Console.Scala Console" />
+        <item itemvalue="Application.ScalaSetDemo" />
+        <item itemvalue="Application.ScalaMap" />
+        <item itemvalue="Application.ScalaQueue" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ccc0b0ae-0049-405f-820f-f204f97a83c0" name="Default" comment="" />
+      <created>1557726127305</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557726127305</updated>
+      <workItem from="1557726128797" duration="19982000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="19982000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" weight="0.32922733" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info id="Image Layers" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32922733" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info id="Capture Tool" />
+      <window_info id="Designer" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39977604" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="7" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/scala_study.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/demoClass/society.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/demoClass/OuterTwo.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/demoClass/Super.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="49" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/demoClass/Outer.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/society/professional/Executive.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/demoObject/Demo3.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="14" lean-forward="true" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/demoObject/Demo2.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="3" lean-forward="true" selection-start-line="3" selection-start-column="2" selection-end-line="14" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/demoObject/Demo.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/demoObject/Demo4.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="39" lean-forward="true" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/demoObject/Demo5.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="21" column="37" lean-forward="true" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/demoObject/Demo6.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="46" column="35" selection-start-line="46" selection-start-column="35" selection-end-line="46" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/demoObject/ForOrYieIdDemo.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" selection-start-line="2" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/demoObject/JavaForDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="19" column="13" lean-forward="true" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/demoObject/MethodToNominatePamars.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/demoObject/RecursiveFunctionDemo.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="10" lean-forward="true" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/demoObject/MethodToMethodNameDemo.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/demoObject/MethodHigherOrderFunction.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="29" column="58" selection-start-line="29" selection-start-column="58" selection-end-line="29" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/demoObject/ArrayVariableDemo.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/demoObject/ArrayNoChangeDemo.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="24" column="16" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/demoObject/ScalaQueue.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74">
+          <caret line="25" column="14" lean-forward="true" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/demoObject/ScalaList.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="573">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/demoObject/ScalaArrayToJavaArray.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="13" column="40" lean-forward="true" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
+          <folding>
+            <element signature="e#20#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/demoObject/MethodDemo.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/demoObject/MethodDefaultPamars.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="5" column="30" lean-forward="true" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/demoObject/Lazy.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/demoObject/ForToListDemo.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/demoObject/ForOrYieLdDemo.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="46" lean-forward="true" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/demoObject/ForInIfDemo.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-375">
+          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/demoObject/ForDemo.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1199">
+          <caret line="64" column="16" selection-start-line="64" selection-start-column="16" selection-end-line="64" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/demoObject/doWhileDemo.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/demoObject/ExceptionSyllabus.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="16" column="51" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/demoObject/TupleDemo.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" column="42" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/demoObject/WhileDemo.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/demoObject/ScalaMap.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="27" column="46" lean-forward="true" selection-start-line="27" selection-start-column="46" selection-end-line="27" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/demoObject/package.scala">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/demoObject/ScalaSetDemo.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="34" column="45" lean-forward="true" selection-start-line="34" selection-start-column="45" selection-end-line="34" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/demoObject/CollectionToMethod.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
